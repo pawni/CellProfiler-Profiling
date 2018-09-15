@@ -5,6 +5,7 @@ Plot profiles.
 
 """
 
+import sys
 from optparse import OptionParser
 import numpy as np
 from scipy.spatial.distance import cdist
